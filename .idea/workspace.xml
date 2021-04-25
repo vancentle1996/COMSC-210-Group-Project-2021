@@ -24,9 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23abffad-4900-4697-ad40-b3142b16ff7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="23abffad-4900-4697-ad40-b3142b16ff7d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +60,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rXU7FexJlj6GqcfPDFOLZnIDoq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -169,6 +168,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="477" y="266" key="#PSD" timestamp="1619125323809">
@@ -183,10 +183,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1020" y="278" key="AndroidCreateResourceFileDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1619123794560" />
-    <state x="823" y="274" key="FileChooserDialogImpl" timestamp="1619125357451">
+    <state x="823" y="274" key="FileChooserDialogImpl" timestamp="1619214665468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="823" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1619125357451" />
+    <state x="823" y="274" key="FileChooserDialogImpl/1920.99.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619214665468" />
     <state x="584" y="308" key="git4idea.merge.GitPullDialog" timestamp="1619125339009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

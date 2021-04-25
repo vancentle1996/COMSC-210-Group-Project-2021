@@ -88,6 +88,7 @@
                 android:paddingEnd="6dp">
 
                 <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/name"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:drawableStart="@drawable/ic_person"
@@ -104,6 +105,7 @@
                 android:paddingEnd="6dp">
 
                 <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/email"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:drawableStart="@drawable/ic_email"
@@ -113,6 +115,7 @@
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/zipcode"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:drawableStart="@drawable/ic_lock"
@@ -121,6 +124,7 @@
                 android:inputType="number|text" />
 
             <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/age"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:drawableStart="@drawable/ic_lock"
@@ -138,6 +142,7 @@
                 app:passwordToggleEnabled="true">
 
                 <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/password"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:drawableStart="@drawable/ic_lock"
