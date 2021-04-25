@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23abffad-4900-4697-ad40-b3142b16ff7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,8 @@
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="vaccard" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ModernLoginRegister.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -168,25 +169,16 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="477" y="266" key="#PSD" timestamp="1619125323809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="477" y="266" key="#PSD/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1619125323809" />
-    <state x="379" y="23" key="#app" timestamp="1619309585160">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state x="379" y="23" key="#app/0.23.1440.831@0.23.1440.831" timestamp="1619309585160" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619123768520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.1.1920.1040@0.0.1920.1040" timestamp="1619123768520" />
-    <state x="379" y="23" key="#vaccard" timestamp="1619309594881">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state x="379" y="23" key="#vaccard/0.23.1440.831@0.23.1440.831" timestamp="1619309594881" />
     <state x="1020" y="278" key="AndroidCreateResourceFileDialog" timestamp="1619123794560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

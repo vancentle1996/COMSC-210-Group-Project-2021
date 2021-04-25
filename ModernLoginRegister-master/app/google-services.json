@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "320529019935",
+    "firebase_url": "https://group-project-2-covid.firebaseio.com",
+    "project_id": "group-project-2-covid",
+    "storage_bucket": "group-project-2-covid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320529019935:android:3d3ffd44d932b8d1c6912a",
+        "android_client_info": {
+          "package_name": "com.amier.modernloginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320529019935-8r55vejpv3a8hh6upn0f0rsloellkb3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJMoGx2y1fzaWaSV1V3UoMy4UsCPqcGuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320529019935-8r55vejpv3a8hh6upn0f0rsloellkb3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
