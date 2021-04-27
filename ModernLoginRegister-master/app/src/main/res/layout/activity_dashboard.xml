@@ -6,13 +6,82 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/Dashboard_Title"
+        android:id="@+id/textView9"
+        android:layout_width="236dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="87dp"
+        android:layout_marginTop="84dp"
+        android:layout_marginEnd="88dp"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"
+        android:text="HI THERE!"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        app:layout_constraintBottom_toTopOf="@+id/textView11"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="306dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="101dp"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"
+        android:text="Click on what you wish to do: "
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:layout_constraintBottom_toTopOf="@+id/profile_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+    <Button
+        android:id="@+id/profile_button"
+        android:layout_width="220dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="96dp"
+        android:layout_marginBottom="7dp"
+        android:text="VIEW PROFILE"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        app:layout_constraintBottom_toTopOf="@+id/cert_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+    <Button
+        android:id="@+id/search_button"
+        android:layout_width="220dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginEnd="96dp"
+        android:layout_marginBottom="115dp"
+        android:text="SEARCH LOCATION"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/cert_button" />
+
+    <Button
+        android:id="@+id/cert_button"
+        android:layout_width="220dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="96dp"
+        android:layout_marginBottom="43dp"
+        android:text="VIEW CERTIFICATION"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        app:layout_constraintBottom_toTopOf="@+id/search_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profile_button" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
