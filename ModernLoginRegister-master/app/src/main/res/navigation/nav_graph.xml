@@ -7,15 +7,15 @@
 
     <fragment
         android:id="@+id/search"
-        android:name="com.hclsample.rajesh.xplore.ui.fragment.SearchFragment"
+        android:name="com.amier.modernloginregister.ui.fragment.SearchFragment"
         tools:layout="@layout/fragment_search" >
-    <action
-        android:id="@+id/action_searchFragment_to_resultFragment"
-        app:destination="@id/result" />
+        <action
+            android:id="@+id/action_searchFragment_to_resultFragment"
+            app:destination="@id/result" />
     </fragment>
     <fragment
         android:id="@+id/result"
-        android:name="com.hclsample.rajesh.xplore.ui.fragment.ResultFragment"
+        android:name="com.amier.modernloginregister.ui.fragment.ResultFragment"
         tools:layout="@layout/fragment_result" />
 
 </navigation>
