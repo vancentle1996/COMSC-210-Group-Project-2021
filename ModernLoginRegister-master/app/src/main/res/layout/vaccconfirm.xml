@@ -10,7 +10,28 @@
         android:id="@+id/imageView"
         android:layout_width="338dp"
         android:layout_height="207dp"
-        app:srcCompat="@drawable/covid_sticker"
-        tools:layout_editor_absoluteX="36dp"
-        tools:layout_editor_absoluteY="251dp" />
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginEnd="37dp"
+        android:layout_marginBottom="273dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/covid_sticker" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="143dp"
+        android:layout_height="263dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="11dp"
+        android:layout_marginEnd="400dp"
+        android:layout_marginBottom="81dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:srcCompat="@drawable/qr_code" />
 </androidx.constraintlayout.widget.ConstraintLayout>
+
