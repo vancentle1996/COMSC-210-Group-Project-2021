@@ -1,5 +1,3 @@
-package com.amier.modernloginregister
-
 import android.Manifest.permission
 import android.annotation.TargetApi
 import android.app.Activity

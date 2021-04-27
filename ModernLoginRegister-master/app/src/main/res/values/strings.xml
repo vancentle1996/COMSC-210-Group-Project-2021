@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">ModernLoginRegister</string>
     <string name="Dashboard_Title">Dashboard Page</string>
+    <string name="label_error">Something went wrong, please try again</string>
+    <string name="no_rating">No Rating</string>
+    <string name="description">Description</string>
+    <string name="long_description">Long Description</string>
+    <string name="short_description">Short Description</string>
+    <string name="rating">Rating:</string>
+    <string name="review_count">&#160;&#160;&#160;&#160;Review Count:</string>
+    <string name="price">Price:</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_result">Results</string>
+    <string name="menu_map">Map</string>
+    <string name="looking_for">Location:</string>
+    <string name="zipcode">Zipcode</string>
+    <string name="zipcode_example">Ex: 02809</string>
+    <string name="location_example">Ex: CVS</string>
 </resources>

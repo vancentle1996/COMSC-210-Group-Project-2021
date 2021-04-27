@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="product_detail_name_margin_top">20dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_15">15dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_145">145dp</dimen>
+    <dimen name="dp_140">140dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_155">155dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_50">50dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+</resources>
